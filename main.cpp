@@ -24,7 +24,15 @@ int main() {
     
     //Own Code Implementation
     
-    const char* Name = "Name";
+    const char* Name = "Name"; 
+    // Name Array will be [5] 
+    // so in visual studio to get the length manually
+    // you can just hover over the "" and get the [] number
+    // and minus 1 from it to get the length.
+
+
+
+    
     int NameLen = strlen(Name);
     
     
